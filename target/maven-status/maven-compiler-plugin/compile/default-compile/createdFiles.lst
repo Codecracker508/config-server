@@ -1,1 +1,2 @@
 com\codeCracker\configserver\ConfigServerApplication.class
+com\codeCracker\configserver\rest\HelloRest.class
